@@ -1,0 +1,3 @@
+sqoop_create_hive_table.sh
+sqoop_import_hive_table_fullrefresh.sh
+sqoop_import_hive_table_incrrefresh.sh
